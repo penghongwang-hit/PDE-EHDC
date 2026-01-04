@@ -1,4 +1,4 @@
-\textbf{1. Dataset_generation.m}
+1. Dataset_generation.m
 
    Description: MATLAB script for generating 3D sensor node positions with multimodal terrain features.
 2. random.txt
